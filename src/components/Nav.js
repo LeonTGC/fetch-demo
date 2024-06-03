@@ -1,7 +1,9 @@
+
 const Navbar = () => {
     return (
         <div>
-            {/* nav */}
+            <h1>navbar</h1>
         </div>
     )
+
 }
