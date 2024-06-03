@@ -1,1 +1,7 @@
-// navbar
+const Navbar = () => {
+    return (
+        <div>
+            {/* nav */}
+        </div>
+    )
+}
